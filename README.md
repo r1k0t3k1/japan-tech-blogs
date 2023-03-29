@@ -18,3 +18,6 @@ https://devblog.lac.co.jp/
 
 # GMO Cyber Security IERAE
 https://gmo-cybersecurity.com/blog/
+
+# Secure Sky Technology
+https://techblog.securesky-tech.com/
