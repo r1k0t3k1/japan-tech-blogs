@@ -22,5 +22,5 @@ https://gmo-cybersecurity.com/blog/
 # Secure Sky Technology
 https://techblog.securesky-tech.com/
 
-#　エヌ・エフ・ラボラトリーズ
+# エヌ・エフ・ラボラトリーズ
 https://blog.nflabs.jp/
